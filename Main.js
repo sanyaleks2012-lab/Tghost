@@ -5,8 +5,8 @@ import path from 'path';
 import { fileURLToPath } from 'url';
 
 /* ================== CONFIG ================== */
-const TELEGRAM_BOT_TOKEN = 'PASTE_NEW_TELEGRAM_TOKEN_HERE';
-const GROQ_API_KEY = 'PASTE_NEW_GROQ_API_KEY_HERE';
+const TELEGRAM_BOT_TOKEN = '8331003914:AAHMgfsbYu5v39qxpaLVwYrbzg9bp7rTjLo';
+const GROQ_API_KEY = 'gsk_aWZMmWcWOT7NPBixSU8dWGdyb3';
 const OPENROUTER_API_KEY = 'PASTE_NEW_OPENROUTER_API_KEY_HERE';
 /* ============================================ */
 
